@@ -6,9 +6,7 @@ import org.junit.Test;
 
 import static org.junit.Assert.assertEquals;
 
-/**
- * Created by Tomasz.Biniecki on 16/05/2017.
- */
+
 public class ThreeForTwoTest {
 
     private ThreeForTwo threeForTwo;

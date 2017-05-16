@@ -12,9 +12,7 @@ import java.util.Map;
 
 import static org.junit.Assert.*;
 
-/**
- * Created by Tomasz.Biniecki on 16/05/2017.
- */
+
 public class ProductCheckoutTest {
 
     private ProductCheckout product;

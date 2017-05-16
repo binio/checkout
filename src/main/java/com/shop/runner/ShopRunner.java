@@ -6,11 +6,7 @@ import com.shop.domain.offers.Offers;
 
 import java.util.*;
 
-import static org.junit.Assert.assertEquals;
 
-/**
- * Created by Tomasz.Biniecki on 16/05/2017.
- */
 public class ShopRunner {
 
     public static void main(String[] args){

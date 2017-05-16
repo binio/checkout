@@ -6,9 +6,7 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
-/**
- * Created by Tomasz.Biniecki on 16/05/2017.
- */
+
 public class ProductCheckout {
 
     private Map<String, Product> listProduct;

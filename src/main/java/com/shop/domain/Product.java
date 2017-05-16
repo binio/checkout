@@ -2,9 +2,7 @@ package com.shop.domain;
 
 import com.shop.domain.offers.Offers;
 
-/**
- * Created by Tomasz.Biniecki on 16/05/2017.
- */
+
 public class Product {
     private String productName;
     private double price;
