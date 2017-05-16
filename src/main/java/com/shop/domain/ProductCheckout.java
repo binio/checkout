@@ -25,7 +25,7 @@ public class ProductCheckout {
             if(quantity.containsKey(product)){
                 quantity.put(product, quantity.get(product).intValue() + 1);
             }else{
-                quantity.put(product, quantity.get(product).intValue());
+                quantity.put(product, 1);
             }
         }
         

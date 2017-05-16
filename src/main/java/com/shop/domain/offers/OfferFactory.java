@@ -19,7 +19,8 @@ public class OfferFactory {
             case THREE_FOR_TWO:
                 offerObj = new ThreeForTwo();
                 break;
-            default:
+            case EMPTY_OFFER:
+                offerObj = new EmptyOffer();
                 break;
         }
         return offerObj;

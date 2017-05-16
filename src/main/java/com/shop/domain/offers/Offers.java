@@ -5,5 +5,6 @@ package com.shop.domain.offers;
  */
 public enum Offers {
     BUY_ONE_GET_ONE,
-    THREE_FOR_TWO;
+    THREE_FOR_TWO,
+    EMPTY_OFFER;
 }
